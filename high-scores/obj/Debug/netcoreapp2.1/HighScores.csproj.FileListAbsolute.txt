@@ -1,0 +1,14 @@
+C:\Users\adragos\Exercism\csharp\high-scores\obj\Debug\netcoreapp2.1\HighScores.csprojAssemblyReference.cache
+C:\Users\adragos\Exercism\csharp\high-scores\obj\Debug\netcoreapp2.1\HighScores.csproj.CoreCompileInputs.cache
+C:\Users\adragos\Exercism\csharp\high-scores\obj\Debug\netcoreapp2.1\HighScores.AssemblyInfoInputs.cache
+C:\Users\adragos\Exercism\csharp\high-scores\obj\Debug\netcoreapp2.1\HighScores.AssemblyInfo.cs
+C:\Users\adragos\Exercism\csharp\high-scores\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\adragos\Exercism\csharp\high-scores\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\adragos\Exercism\csharp\high-scores\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\adragos\Exercism\csharp\high-scores\bin\Debug\netcoreapp2.1\HighScores.deps.json
+C:\Users\adragos\Exercism\csharp\high-scores\bin\Debug\netcoreapp2.1\HighScores.runtimeconfig.json
+C:\Users\adragos\Exercism\csharp\high-scores\bin\Debug\netcoreapp2.1\HighScores.runtimeconfig.dev.json
+C:\Users\adragos\Exercism\csharp\high-scores\bin\Debug\netcoreapp2.1\HighScores.dll
+C:\Users\adragos\Exercism\csharp\high-scores\bin\Debug\netcoreapp2.1\HighScores.pdb
+C:\Users\adragos\Exercism\csharp\high-scores\obj\Debug\netcoreapp2.1\HighScores.dll
+C:\Users\adragos\Exercism\csharp\high-scores\obj\Debug\netcoreapp2.1\HighScores.pdb
