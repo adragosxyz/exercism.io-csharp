@@ -1,0 +1,14 @@
+C:\Users\adragos\Exercism\csharp\bracket-push\obj\Debug\netcoreapp2.1\BracketPush.csprojAssemblyReference.cache
+C:\Users\adragos\Exercism\csharp\bracket-push\obj\Debug\netcoreapp2.1\BracketPush.csproj.CoreCompileInputs.cache
+C:\Users\adragos\Exercism\csharp\bracket-push\obj\Debug\netcoreapp2.1\BracketPush.AssemblyInfoInputs.cache
+C:\Users\adragos\Exercism\csharp\bracket-push\obj\Debug\netcoreapp2.1\BracketPush.AssemblyInfo.cs
+C:\Users\adragos\Exercism\csharp\bracket-push\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\adragos\Exercism\csharp\bracket-push\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\adragos\Exercism\csharp\bracket-push\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\adragos\Exercism\csharp\bracket-push\bin\Debug\netcoreapp2.1\BracketPush.deps.json
+C:\Users\adragos\Exercism\csharp\bracket-push\bin\Debug\netcoreapp2.1\BracketPush.runtimeconfig.json
+C:\Users\adragos\Exercism\csharp\bracket-push\bin\Debug\netcoreapp2.1\BracketPush.runtimeconfig.dev.json
+C:\Users\adragos\Exercism\csharp\bracket-push\bin\Debug\netcoreapp2.1\BracketPush.dll
+C:\Users\adragos\Exercism\csharp\bracket-push\bin\Debug\netcoreapp2.1\BracketPush.pdb
+C:\Users\adragos\Exercism\csharp\bracket-push\obj\Debug\netcoreapp2.1\BracketPush.dll
+C:\Users\adragos\Exercism\csharp\bracket-push\obj\Debug\netcoreapp2.1\BracketPush.pdb
