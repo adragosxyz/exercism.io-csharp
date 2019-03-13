@@ -1,0 +1,14 @@
+C:\Users\adragos\Exercism\csharp\complex-numbers\obj\Debug\netcoreapp2.1\ComplexNumbers.csprojAssemblyReference.cache
+C:\Users\adragos\Exercism\csharp\complex-numbers\obj\Debug\netcoreapp2.1\ComplexNumbers.csproj.CoreCompileInputs.cache
+C:\Users\adragos\Exercism\csharp\complex-numbers\obj\Debug\netcoreapp2.1\ComplexNumbers.AssemblyInfoInputs.cache
+C:\Users\adragos\Exercism\csharp\complex-numbers\obj\Debug\netcoreapp2.1\ComplexNumbers.AssemblyInfo.cs
+C:\Users\adragos\Exercism\csharp\complex-numbers\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\adragos\Exercism\csharp\complex-numbers\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\adragos\Exercism\csharp\complex-numbers\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\adragos\Exercism\csharp\complex-numbers\bin\Debug\netcoreapp2.1\ComplexNumbers.deps.json
+C:\Users\adragos\Exercism\csharp\complex-numbers\bin\Debug\netcoreapp2.1\ComplexNumbers.runtimeconfig.json
+C:\Users\adragos\Exercism\csharp\complex-numbers\bin\Debug\netcoreapp2.1\ComplexNumbers.runtimeconfig.dev.json
+C:\Users\adragos\Exercism\csharp\complex-numbers\bin\Debug\netcoreapp2.1\ComplexNumbers.dll
+C:\Users\adragos\Exercism\csharp\complex-numbers\bin\Debug\netcoreapp2.1\ComplexNumbers.pdb
+C:\Users\adragos\Exercism\csharp\complex-numbers\obj\Debug\netcoreapp2.1\ComplexNumbers.dll
+C:\Users\adragos\Exercism\csharp\complex-numbers\obj\Debug\netcoreapp2.1\ComplexNumbers.pdb
